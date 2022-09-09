@@ -1,0 +1,9 @@
+function, variables
+conditions
+loops
+exceptions
+libraries
+unit tests
+file I/O
+Regular Expressions
+Classes
